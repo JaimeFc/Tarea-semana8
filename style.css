@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #f3efec, #a7a396);
+  color: #333;
+}
+
+.d-block{
+    width: 60%;
+    height: 400px;
+    display: block;
+    margin: 0 auto;
+    width: 50%; /* o cualquier valor como 300px */
+}
+
+.carousel-control-prev {
+    display: block;
+    margin: 0 auto;
+    width: 50%; /* o cualquier valor como 300px */
+}
+.carousel-control-next {
+    display: block;
+    margin: 0 auto;
+    width: 50%; /* o cualquier valor como 300px */
+}
+.container-fluid {
+    display: block;
+    margin: 0 auto;
+    width: 50%; /* o cualquier valor como 300px */
+}
+.container-fluid{
+    background-color: rgb(129, 75, 68);
+}
+.Titulo {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: rgb(129, 75, 68);
+
+}
+.table {
+    width: 50%;
+    margin: auto;
+}
+.Encabezado{
+    background-color: rgb(129, 75, 68);
+    color: aliceblue;
+    text-align: center;
+}
+.Contenido{
+    text-align: center;
+}
+.form-row{
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    gap: 10x;
+    margin-bottom: 15px;
+    justify-content: center;
+    resize: vertical;
+
+
+}
+.button {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #6b4f2c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.final {
+    background-color: rgb(209, 168, 162);
+    color: #000000;
+    padding: 1em 0;text-align: center;
+    width: 100%;
+    display: block;
+   
+}
+.boton{
+     display: block;
+  margin: 0 auto;
+  padding: 10px 20px;
+  background-color: #6b4f2c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
